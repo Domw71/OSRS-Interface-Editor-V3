@@ -1,0 +1,7 @@
+target/
+*.class
+# never commit Jagex-derived cache data
+src/main/resources/templates/
+*.toml
+*.lfi
+dependency-reduced-pom.xml
